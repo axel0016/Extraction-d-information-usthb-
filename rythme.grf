@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1887 862
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 10 192 10 9 11 15 7 10 17 19 21 22 23 
+"" 582 170 0 
+":nombre" 177 114 1 3 
+"\/+-+$+–+\." 250 188 1 4 
+":nombre" 287 174 1 5 
+"\/+-+$+–+\." 378 175 1 6 
+":nombre" 418 175 1 8 
+"(+<E>" 95 145 2 2 11 
+")+<E>" 512 148 1 1 
+"\/+par+per+\.+sur+sous" 162 359 3 10 14 16 
+":unity" 254 284 4 12 1 10 20 
+":nombre" 20 476 3 9 15 1 
+"\/+par+per+\.+sur+sous" 376 368 1 13 
+":nombre" 451 344 2 1 18 
+":nombre" 252 366 2 12 10 
+"fois+x+*+\+" 41 302 3 9 11 29 
+"voie orale" 238 412 1 1 
+"le+de" 84 188 1 10 
+":unity" 579 360 2 1 24 
+"\. A PREVOIR+, solution injectable+sol inj+plégie gauche+, pdr pr sol buv+GASTRO-RÉSISTANT+ IVL à la demande+exogénose+à la seringue électrique+\, poudre et solvant pour solution injectable+ avec une surveillance+ gastro-résistant+à adapter en fonction de l’INR+Kinésithérapie respiratoir+en bolus+Ventilation+, pdr pr sol pr perf Voie intraveineuse" 238 614 1 1 
+"maximum" 361 280 1 1 
+"en" 39 139 1 9 
+":unity" 96 506 1 9 
+"\." 2 215 1 15 
+"(" 720 291 1 26 
+")" 796 235 1 1 
+"j<NB>" 719 242 2 27 25 
+"\/" 747 154 1 26 
+"<N+subst>" 317 223 1 30 
+"$![" 277 223 1 28 
+"$]" 367 223 1 1 

@@ -1,0 +1,42 @@
+#Unigraph
+SIZE 1754 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+22
+"<E>" 14 218 15 2 3 4 5 6 9 8 10 12 13 16 17 14 19 20 
+"" 1253 308 0 
+"ml" 209 638 1 1 
+"unités+unité" 186 543 1 1 
+"<E>" 191 713 1 1 
+"UI+M" 194 509 1 1 
+"inj+injection+flac+seringue+flacons+flacon+sachet+sachets+patch+flac" 77 32 2 14 18 
+"jour+jours+j+jr+mois+<NB>+h+heures+<E>" 540 124 1 1 
+"comprimés+comprimé+cp+gélules+gélule" 328 63 1 14 
+"amp+ampoule+ampoules" 203 402 1 14 
+"fois+x+×" 180 105 1 14 
+"m²" 525 207 1 1 
+"%" 204 459 1 1 
+"h+heures" 291 216 1 14 
+"\/+par+\.+<E>" 417 142 3 11 15 7 
+"l+ml+l-1+millilitres+litres" 503 272 2 1 14 
+"cps" 153 68 1 14 
+":gramage" 131 241 1 14 
+"sc" 386 8 1 7 
+"mmol+mol" 328 308 1 14 
+"à" 200 358 1 21 
+"<NB>" 253 361 1 13 

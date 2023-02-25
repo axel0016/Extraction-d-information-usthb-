@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1754 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>" 70 200 1 2 
+"" 1101 185 0 
+":subst" 194 198 2 3 4 
+":nombre" 442 204 3 5 10 7 
+"\:+\," 400 38 3 6 9 7 
+":unity" 351 474 5 4 10 9 5 7 
+":rythme" 700 21 5 9 1 4 6 11 
+":nombre" 689 202 4 8 9 6 14 
+":unity" 534 362 4 9 4 6 8 
+":periode" 663 473 3 1 12 6 
+":rythme" 897 198 4 10 4 9 1 
+"," 608 127 1 9 
+":periode" 1007 466 1 1 
+"<E>" 470 477 0 
+":unity" 877 35 2 1 14 
